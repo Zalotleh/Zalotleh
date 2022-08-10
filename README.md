@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zalotleh
-- 👀 I’m interested in Python, Javascript, Django, HTML,CSS, React, Nodejs
-- 🌱 I’m currently learning Python, Javascript, Django, HTML,CSS, React, Nodejs
+- 👀 I’m interested in Python, Django, HTML,CSS, Javascript.
+- 🌱 I’m currently learning Python, Django, HTML,CSS, Javascript.
 - 💞️ I’m begginer and looking to collaborate on projects which will grow my knowledge and allow me to show my value.
 - 📫 How to reach me ziadalotleh@gmail.com
 
